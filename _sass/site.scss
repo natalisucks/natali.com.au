@@ -1,0 +1,40 @@
+body {
+  background-image: url(img/large_leather.png);
+  padding-top: 40px;
+}
+
+.header {
+  margin-bottom: 40px;
+  font-size: 1.3em;
+}
+
+.panel.radius {
+  border-radius: 10px;
+  background-color: #fff;
+}
+
+a {
+  color: #8C7B5F;
+}
+a:hover, a:focus {
+    color: rgba(104, 89, 70, 1);
+}
+
+.menu {
+  margin-top: 15px;
+}
+
+.main p, .menu a {
+  font-size: 0.9rem;
+}
+
+.footer p {
+  font-size: 0.6rem;
+}
+
+@media only screen and (min-width: 40.063em) {
+  .h1 {
+    line-height: 0.7;
+    font-size: 2.75em;
+  }
+}
