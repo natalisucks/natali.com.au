@@ -2,10 +2,8 @@
 layout: default
 ---
 
-I have just moved to Berlin from Singapore and have volunteer experience at local museums in my native Sydney, Australia.
+Hello, my name is <em>Natali Vlatko</em> and I'm a <em>Writer</em>.
 
-I have a Bachelors degree in History and Philosophy as well as a Masters in Ancient History. My work experience over the last ten years has seen me excel in an administrative capacity for a variety of companies.
+Here is my [CV](natali-vlatko-resume.pdf), here is my [Twitter](https://twitter.com/natalisucks). See what I'm currently [writing](https://jaxenter.com/author/natalivlatko) about.
 
-I currently occupy the volunteer position of News Editor for PASSAGE Magazine, a publication of the Friends of the Museums in Singapore.
-
-I'd love for you to hire me! Send me an E-Mail: [natalivlatko@gmail.com](mailto:natalivlatko@gmail.com)
+Do you want to write me an E-Mail? [natalivlatko@gmail.com](mailto:natalivlatko@gmail.com)

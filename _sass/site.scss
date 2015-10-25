@@ -1,21 +1,12 @@
 body {
-  background-image: url(img/large_leather.png);
-  padding-top: 40px;
-}
-
-.header {
-  margin-bottom: 40px;
-  font-size: 1.3em;
-}
-
-.panel.radius {
-  border-radius: 10px;
-  background-color: #fff;
+  background: #fff;
+  font-family: Lucida Console,Monaco,monospace;
 }
 
 a {
-  color: #8C7B5F;
+  color: #F206FF;
 }
+
 a:hover, a:focus {
     color: rgba(104, 89, 70, 1);
 }
@@ -31,10 +22,29 @@ a:hover, a:focus {
 .footer p {
   font-size: 0.6rem;
 }
-
-@media only screen and (min-width: 40.063em) {
-  .h1 {
-    line-height: 0.7;
-    font-size: 2.75em;
+.main-container {
+  position: relative;
+}
+.main {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.main em {
+  text-transform: uppercase;
+  font-weight: bold;
+  font-style: normal;
+  &:first-child {
+    display: block;
+    font-size: 75px;
   }
+}
+
+.main a {
+  text-transform: uppercase;
+}
+
+.main p {
+  text-align: justify;
 }
