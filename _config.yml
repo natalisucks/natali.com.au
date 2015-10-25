@@ -1,8 +1,7 @@
 # Site settings
 title: Natali Vlatko - natali.com.au
 email: natalivlatko@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  Hello, my name is Natali Vlatko and I'm looking for a dream Museum job
+description: Hello, my name is Natali Vlatko and I’m a Writer.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://natali.com.au"
 twitter_username: natalisucks
