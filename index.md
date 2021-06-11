@@ -4,7 +4,7 @@ layout: default
 
 Hello, my name is <em>Natali Vlatko</em> and I'm in <em>ENGINEERING MANAGEMENT</em>.
 
-Here is my [CV](natali-vlatko-cv.pdf) and here is my [Twitter](https://twitter.com/natalisucks). I also used to work in <em>TECH COMMS</em>, writing  about technology [here](https://jaxenter.com/author/natalivlatko), [here](https://tech.zalando.com/blog/), and [here](https://tech.wayfair.com).
+I shitpost on [Twitter](https://twitter.com/natalisucks). I used to work in <em>TECH COMMS</em>, writing  about technology [here](https://jaxenter.com/author/natalivlatko), [here](https://tech.zalando.com/blog/), and [here](https://tech.wayfair.com).
 
 Open source software and highlighting women in technical roles are my thing.
 
